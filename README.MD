@@ -22,7 +22,7 @@
 ### Front End para celular
 ![mailchimp](./assets/images/mobile.gif)
 
-### Acesse o site e veja você mesmo! Link: https://relaxed-nobel-10b31d.netlify.app/
+### Acesse o site e veja você mesmo! Link: https://loving-stonebraker-57df44.netlify.app/
 
 
 ### Gostou do meu projeto? :D Entre em contato comigo! 
