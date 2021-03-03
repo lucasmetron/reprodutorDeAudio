@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Avançado</title>
+    <link rel="icon" href="./assets/images/play.png">
+
+    <link rel="stylesheet" href="./style.css">
+
+
+</head>
+<body>
+    
+    
+
+    <div class="conteiner">
+
+        <img class="img1" src="./assets/images/abacate.jpg" alt="abacate">
+
+        <div class="audio">
+            <audio loop id="audio1" class="som"  src="./assets/Dancing In The Moonlight.mp3">            
+            </audio>
+            <img id="play" class="bt" onclick="tocarPause()" src="./assets/images/play.png" >
+            <img id="parar" class="bt" onclick="parar()" src="./assets/images/parar.png">
+            <img id="avancar" class="bt" onclick="avancar()" src="./assets/images/acelerar.png">
+            <img id="desacelarar" class="bt" onclick="desacelarar()" src="./assets/images/desacelarar.png">
+            <img class="bt" src="./assets/images/aumentarVol.png" onclick="aumentarVol()">
+            <img class="bt" src="./assets/images/diminuirVol.png" onclick="diminuirVol()" >
+
+        </div><br>
+        <!--<span id="tempo">00:00</span> </progress> -->
+        <progress id="progress" value="0" type="range"> 
+       
+
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+</html>
