@@ -1,12 +1,12 @@
 # Reprodutor de Audio
 
-### - Neste projeto desenvolvi um reprodutor de audio customizado de acordo com o solicitado pelo cliente, onde possuo controles de play, pause, stop, acelarar, desacelerar, aumentar volume e abaixar volume. E estes botões possui interasam, que são elas:
+### - Neste projeto desenvolvi um reprodutor de audio customizado de acordo com o solicitado pelo cliente, onde possuo controles de play, pause, stop, acelerar, desacelerar, aumentar volume e abaixar volume. E estes botões possuem interações, que são elas:
 
--Play: Começa e pausa música no mesmo botão.
--Stop: Pausa a música e volta o audio para o inicio do mesmo.
--Acelerar audio: acelera audio 2 x. Se passar de 2x o audio volta ao normal.
--Desacelarar: desacelera audio 3 x. Se passar de 3x o audio volta ao normal.
--Volume: Tanto aumentar volume como abaixar volume possui limitadores com aviso. 
+#### -Play: Começa e pausa música no mesmo botão.
+#### -Stop: Pausa a música e volta o audio para o início do mesmo.
+#### -Acelerar áudio: acelera áudio 2x. Se passar de 2x o áudio volta ao normal.
+#### -Desacelarar: desacelera áudio 3x. Se passar de 3x o áudio volta ao normal.
+#### -Volume: Tanto aumentar volume como abaixar volume possuem limitadores com aviso. 
 
 ### - Nesta aplicação foram usados as seguintes tecnologias:
 
