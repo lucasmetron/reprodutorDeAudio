@@ -5,7 +5,7 @@
 #### -Play: Começa e pausa música no mesmo botão.
 #### -Stop: Pausa a música e volta o audio para o início do mesmo.
 #### -Acelerar áudio: acelera áudio 2x. Se passar de 2x o áudio volta ao normal.
-#### -Desacelarar: desacelera áudio 3x. Se passar de 3x o áudio volta ao normal.
+#### -Desacelerar: desacelera áudio 3x. Se passar de 3x o áudio volta ao normal.
 #### -Volume: Tanto aumentar volume como abaixar volume possuem limitadores com aviso. 
 
 ### - Nesta aplicação foram usados as seguintes tecnologias:
